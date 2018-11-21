@@ -1,3 +1,4 @@
+/** BackgroundPicForBing-v1.0 MIT License By https://www.samler.cn */
 ;!function(e){
 	var url = 'https://cn.bing.com/ImageResolution.aspx?w='+e.innerWidth+'&h='+e.innerHeight,
 		bpfb = new Image();
